@@ -1,4 +1,4 @@
-## 大阪大学理学部物理学科　連続体力学のリポジトリ
+## 2026年度 大阪大学理学部物理学科　連続体力学のリポジトリ
 This work is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].<br>
 [![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
