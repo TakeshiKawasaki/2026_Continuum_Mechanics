@@ -23,10 +23,10 @@ This work is licensed under a
 | 第5回  | 線形弾性論（2） | Poisson比とYoung率 |
 | 第6回  | 線形弾性論（3） | Navier方程式・弾性波と音速 |
 | 第7回  | 流体力学の導入 | Newtonの法則とNavier–Stokes方程式 |
-| 第8回  | 高Reynolds数流体(1) | Euler方程式とBernoulliの法則 |
+| 第8回  | 高Reynolds数流体(1) | Reynolds数による分類，Euler方程式とBernoulliの法則 |
 | 第9回  | 高Reynolds数流体(2) | 渦度と循環，Kelvinの循環定理，Helmholtzの渦定理，Lagrangeの渦定理|
 | 第10回  | 高Reynolds数流体(3) | Helmholtz分解，ポテンシャル流|
 | 第11回  | 高Reynolds数流体(4)| 2次元非粘性流体， 複素関数論|
-| 第12回  | 低Reynolds数流体(1) | Reynolds数による分類，低Reynolds数流体 |
+| 第12回  | 低Reynolds数流体(1) | 低Reynolds数流体 |
 | 第13回  | 低Reynolds数流体(2) | Stokes抵抗則 |
 | 第14回  | 複雑な流動現象 | 乱流|
