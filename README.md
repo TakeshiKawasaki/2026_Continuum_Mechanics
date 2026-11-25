@@ -27,7 +27,7 @@ This work is licensed under a
 | 第4回（11/05） | 線形弾性論（1） | Hookeの法則・弾性率テンソル・Lamé係数|
 | 第5回（11/09） | 線形弾性論（2） | Poisson比とYoung率 |
 | 第6回（11/16） | 線形弾性論（3） | Navier方程式・弾性波と音速 |
-| 第7回  | 流体力学の導入 | Newtonの法則とNavier–Stokes方程式 |
+| 第7回（11/30）  | 流体力学の導入 | Newtonの法則とNavier–Stokes方程式 |
 | 第8回  | 高Reynolds数流体(1) | Reynolds数による分類，Euler方程式とBernoulliの法則 |
 | 第9回  | 高Reynolds数流体(2) | 渦度と循環，Kelvinの循環定理，Helmholtzの渦定理，Lagrangeの渦定理|
 | 第10回  | 高Reynolds数流体(3) | Helmholtz分解，ポテンシャル流|
